@@ -1,9 +1,7 @@
 init_subclass
 ======
-Add Python 2 backwards compatibility for
-object.__init_subclass__
-
-https://docs.python.org/3/reference/datamodel.html#object.__init_subclass__
+Backwards compatibility for Python 3
+[\_\_init_subclass\_\_](https://docs.python.org/3/reference/datamodel.html#object.__init_subclass__)
 
 
 ### Install
